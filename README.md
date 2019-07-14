@@ -17,7 +17,7 @@ Przykładowa wersja niebieska (uzyskana przez zmianę tylko jednego parametru):
 ## Instrukcja użycia
 
 1. Przejdź do folderu w którym chcesz utworzyć projekt
-2. Sklonuj repozytorium (git clone https://github.com/openstreetmap-polska/style-monocolor-inverted.git)  
+2. Sklonuj repozytorium (git clone https://github.com/openstreetmap-polska/style-monocolor-inverted.git). Możesz również pobrać je jako archiwum zip i rozpakować.
 2. Pobierz archiwum z plikami .shp z [geofabrik](http://download.geofabrik.de)
 3. Wypakuj archiwum do folderu layers
 4. Uruchom projekt w QGIS
