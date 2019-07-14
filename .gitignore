@@ -1,0 +1,6 @@
+layers/gis_osm_*.shp
+layers/gis_osm_*.shx
+layers/gis_osm_*.dbf
+layers/gis_osm_*.prj
+layers/gis_osm_*.cpg
+layers/README
